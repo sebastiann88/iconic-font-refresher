@@ -2,10 +2,11 @@
     display: inline-block;
     background-color:#1f4474;
     border-radius: 10px;
-    padding: 0.5em 1em;
-    margin: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
     color: #fff;
     border: 0;
+    line-height: 0em;
     text-decoration: none;
 }
 
