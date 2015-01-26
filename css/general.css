@@ -1,0 +1,49 @@
+.button {
+    display: inline-block;
+    background-color:#1f4474;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+    margin: 1em;
+    color: #fff;
+    border: 0;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: #1f4474;
+    background-color: #fff;
+    text-decoration:none;
+}
+
+ul li {
+text-decoration:none;
+}
+
+li:before {
+ ""   
+}
+
+li {
+text-decoration: none;   
+}
+
+a {
+text-decoration::none;
+}
+
+
+
+.inline-block {
+    display: inline-block;
+}
+
+.float-left {
+    float: left;
+}
+
+.banner {
+    background-color: #5f93d0;
+    margin: 0em 2em;
+    padding: 2em;
+    
+}
