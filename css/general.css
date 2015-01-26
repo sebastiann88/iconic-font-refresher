@@ -55,3 +55,14 @@ text-decoration::none;
 .center {
     margin: auto 44%;
 }
+
+h2 {
+    font-size: 1.4em;
+    font-weight:lighter;
+    font-style:normal;
+    font-family: Helvetica, sans-serif;
+}
+
+span {
+font-size: 1.2em;   
+}
