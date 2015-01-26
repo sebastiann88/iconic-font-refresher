@@ -1,7 +1,7 @@
 .button {
     display: inline-block;
     background-color:#1f4474;
-    border-radius: 3px;
+    border-radius: 10px;
     padding: 0.5em 1em;
     margin: 1em;
     color: #fff;
@@ -45,5 +45,12 @@ text-decoration::none;
     background-color: #5f93d0;
     margin: 0em 2em;
     padding: 2em;
-    
+}
+
+.white {
+    color: white;
+}
+
+.center {
+    margin: auto 44%;
 }
