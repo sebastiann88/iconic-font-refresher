@@ -1,3 +1,28 @@
+html {
+    padding: 0em;
+}
+
+body {
+    padding: 0em;
+    margin: 0em;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight:lighter;
+    font-style:normal;
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+    margin: 0em;
+}
+
+h2 {
+    font-size: 1.4em;
+    font-weight:lighter;
+    font-style:normal;
+    font-family: Helvetica, sans-serif;
+}
+
 .button {
     display: inline-block;
     background-color:#1f4474;
@@ -33,25 +58,7 @@
     text-decoration:none;
 }
 
-ul li {
-text-decoration:none;
-}
-
-li:before {
- ""   
-}
-
-li {
-text-decoration: none;   
-}
-
-a {
-text-decoration::none;
-}
-
-
-
-.inline-block {
+.row {
     display: inline-block;
 }
 
@@ -59,9 +66,9 @@ text-decoration::none;
     float: left;
 }
 
-.banner {
+.header {
     background-color: #5f93d0;
-    margin: 0em 2em;
+    margin: 0em;
     padding: 2em;
 }
 
@@ -73,13 +80,3 @@ text-decoration::none;
     margin: auto 44%;
 }
 
-h2 {
-    font-size: 1.4em;
-    font-weight:lighter;
-    font-style:normal;
-    font-family: Helvetica, sans-serif;
-}
-
-span {
-font-size: 1.2em;   
-}
