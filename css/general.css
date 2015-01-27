@@ -71,6 +71,12 @@ h3 {
     display: inline-block;
 }
 
+.row2 {
+    display: inline-block;
+    margin: 1em 2em;
+    padding: 0.2em;
+}
+
 .float-left {
     float: left;
 }
@@ -91,6 +97,11 @@ h3 {
 
 li {
     list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration:none;
 }
 
 .border {
